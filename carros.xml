@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/Users/barce/Documents/UNACH/SERVCIOS%20WEB/Practica05_A170148/carros.xsl"?>
+<carros>
+<carro>
+  <nombre>Corvette</nombre>
+  <motor> LT2 V8</motor>
+  <marca>Chevrolet</marca>
+</carro>
+<carro>
+  <nombre>Ferrari F8 Spider</nombre>
+  <motor>V8 720 CV</motor>
+  <marca>Ferrari</marca>
+</carro>
+<carro>
+<nombre>Jaguar F-Type</nombre>
+  <motor>380CV</motor>
+  <marca>Jaguar</marca>
+</carro>
+</carros>
